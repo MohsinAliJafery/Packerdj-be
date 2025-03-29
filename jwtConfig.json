@@ -1,0 +1,9 @@
+{
+  "dsJWTClientId": "1104757b-f34d-45fa-b05f-d29555849fc2",
+  "impersonatedUserGuid": "ea51667e-96d1-48d9-a59d-0b5b018c0f68",
+  "privateKeyLocation":  "./private.key",
+  "dsOauthServer": "https://account-d.docusign.com",
+  "accountId": "57776abf-d603-4072-9dbd-261074a62ce2",
+  "basePath": "https://demo.docusign.net/restapi",
+  "returnURL": "http://localhost:4200/user/contracts"
+}
