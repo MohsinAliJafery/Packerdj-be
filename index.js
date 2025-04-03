@@ -109,7 +109,7 @@ app.use("/api/public", express.static("public"));
 app.use(cors());
 app.use(cors({
   origin: ['https://pekerdja.co', 'https://www.pekerdja.co', 'https://82.25.115.62', 'http://82.25.115.62',
-          'https://82.25.115.62:4200', 'http://82.25.115.62:4200']
+          'https://82.25.115.62:4200', 'http://82.25.115.62:4200', 'http://82.25.115.62:5000']
 }));
 
 app.options("*", cors());
